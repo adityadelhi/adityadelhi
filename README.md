@@ -10,7 +10,7 @@
 ## Get in Touch, Let's Code the Future Together! 🚀
 
 - 📧 Email: adiadelhi@gmail.com
-- 🔗 LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/aditya-patel-poland)
+- 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/aditya-patel-poland)
 
 ## Tech Arsenal 💻
 
