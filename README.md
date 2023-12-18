@@ -1,6 +1,6 @@
 ## About the Code Maverick 🚀
 
-- 🎓 Master's Degree from the **Warsaw University of Technology, Poland** in the thrilling realms of **Computer Science and Networking**.
+- 🎓 I am currently pursuing a Master's Degree from the **Warsaw University of Technology, Poland** in the thrilling realms of **Computer Science and Networking**.
 - 💻 Fearlessly conquering the coding cosmos with a focus on **Flutter & Dart** wizardry at [**TCS**](https://www.tcs.com/).
 - 🌐 Crafted brilliance for the tech behemoth **BAYER, Germany** – where innovation meets excellence! [BAYER](https://www.bayer.com/en/)
 - 🚀 Propelled into the digital frontier as the maestro behind multiple cutting-edge apps for prestigious corporations.
